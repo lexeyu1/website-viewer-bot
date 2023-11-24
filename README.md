@@ -7,8 +7,11 @@ With this batch tool you can generate up to 7000k+ an hour just put in your own 
 Here're some of the project's best features:
 
 Very fast
+
 No proxys needed
+
 Easy to use
 
 🛠️ Installation Steps:
+
 pip install selenium
