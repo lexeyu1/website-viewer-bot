@@ -15,3 +15,5 @@ Easy to use
 🛠️ Installation Steps:
 
 pip install selenium
+
+to use this code, you need Chrome 114, I attach the link https://bestim.org/chrome-114.html
